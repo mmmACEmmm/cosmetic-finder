@@ -1,2 +1,1 @@
 # cosmetic-finder
-ADMINISTRATOR BADGE
